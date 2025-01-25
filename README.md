@@ -1,7 +1,7 @@
 ### Hi there, am Kamal 👋
 
 - 🔭 I’m currently working as a .Net Web Developer.
-- 🌱 I’m curently learning Kotlin as hobby.
+- 🌱 I’m curently learning Kotlin as a hobby.
 - 👯 I would love to collaborate on web development, front-end, back-end ..... anything exciting.
 - 📫 How to reach me: [<img src="https://img.icons8.com/ios-filled/15/000000/github.png" alt="github-issue-page"/>](https://github.com/kamal-mac/kamal-mac/issues)
 - ⚡ Fun fact: I hate CSS.
