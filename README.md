@@ -1,8 +1,8 @@
 ### Hi there, am Kamal 👋
 
-- 🔭 I’m currently working on my first Android App.
-- 🌱 I’m currently learning Kotlin.
-- 👯 I’m looking to collaborate on web development, front-end, back-end ..... anything exciting.
+- 🔭 I’m currently working as a .Net Web Developer.
+- 🌱 I’m curently learning Kotlin as hobby.
+- 👯 I would love to collaborate on web development, front-end, back-end ..... anything exciting.
 - 📫 How to reach me: [<img src="https://img.icons8.com/ios-filled/15/000000/github.png" alt="github-issue-page"/>](https://github.com/kamal-mac/kamal-mac/issues)
 - ⚡ Fun fact: I hate CSS.
 
@@ -13,6 +13,7 @@
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" width="25" height="25">](https://github.com/topics/csharp)
 [<img src="https://img.icons8.com/ios-filled/25/000000/api-settings.png" alt="web-api"/>](https://github.com/topics/webapi)
 [<img src="https://img.icons8.com/officexs/25/000000/sql.png" alt="sql"/>](https://github.com/topics/sql)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="25" height="25">](https://github.com/topics/react)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="25" height="25">](https://github.com/topics/html)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="25" height="25">](https://github.com/topics/javascript)
 [<img src="https://img.icons8.com/color/25/000000/git.png" alt="git"/>](https://github.com/topics/git)
